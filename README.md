@@ -27,14 +27,12 @@ Mint-Tab transforms your default new tab page into a productive dashboard. It re
 
 Since Mint-Tab is currently in development and not yet on the Web Store, follow these steps to install it:
 
-1.  **Download** this repository as a ZIP file and extract it, or clone it via git:
-    This site was built using [GitHub Pages](https://pages.github.com/).
-    ```bash
-    git clone This site was built using [GitHub Pages](https://pages.github.com/).
-    ```
-3.  Open your browser (Chrome, Edge, or Brave) and navigate to the **Extensions** page:
+1.  **Download** this repository as a ZIP file and extract it, or clone it via git: [Mint-Tab](https://github.com/Senichi31/Mint-Tab/releases)
+2.  Open your browser (Chrome, Edge, or Brave) and navigate to the **Extensions** page:
     *   `chrome://extensions`, `edge://extensions` or `brave://extensions`
-4.  Enable **"Developer mode"**.
-5.  Click the **"Load unpacked"** button.
-6.  Select the folder where you extracted/cloned Mint-Tab.
-7.  Open a new tab and enjoy!
+3.  Enable **"Developer mode"**.
+4.  Click the **"Load unpacked"** button.
+5.  Select the folder where you extracted/cloned Mint-Tab.
+6.  Open a new tab and enjoy!
+
+Does this structure match the vibe you want for Mint-Tab?
