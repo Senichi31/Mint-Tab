@@ -1,3 +1,8 @@
 # Mint-Tab
-A productive replacement of 'New Tab' to display and access browser bookmarks efficiently. (AI-Assisted)
-It is an unuploaded browser extension. Feel free to use it after you upload the unpacked extension folder through the browser extension manager.
+
+> **A sleek, AI-assisted "New Tab" replacement designed to help you access and organize browser bookmarks with maximum efficiency.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Version](https://img.shields.io/badge/version-1.1.0-mintgreen)
+
+Mint-Tab transforms your default new tab page into a productive dashboard. It removes the clutter and focuses on what matters: your bookmarks, organized beautifully and accessed instantly.
