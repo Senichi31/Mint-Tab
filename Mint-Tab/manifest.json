@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Mint-Tab: Bookmark Viewer",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A productive replacement of 'New Tab' to display and access browser bookmarks efficiently. (AI-Assisted)",
   "permissions": [
     "bookmarks",
