@@ -21,7 +21,7 @@ Mint-Tab transforms your default new tab page into a productive dashboard. It re
 
 ## 📸 Preview
 `![Mint-Tab Dashboard](https://github.com/user-attachments/assets/014ab176-95d6-4250-9d26-8493caf54972)`
-
+<img width="1863" height="943" alt="Screenshot 2026-05-03 211437" src="https://github.com/user-attachments/assets/014ab176-95d6-4250-9d26-8493caf54972" />
 ---
 
 ## 🛠 Installation (Unpacked Extension)
