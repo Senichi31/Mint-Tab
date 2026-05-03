@@ -1,6 +1,6 @@
 # Mint-Tab
 
-> **A sleek "New Tab" replacement designed to help you access and organise browser bookmarks with maximum efficiency.**
+> **A sleek new tab replacement designed to help you access and organise browser bookmarks with maximum efficiency.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Version](https://img.shields.io/badge/version-1.1.0-mintgreen)
