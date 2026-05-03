@@ -29,7 +29,7 @@ Since Mint-Tab is currently in development and not yet on the Web Store, follow 
 
 1.  **Download** this repository as a ZIP file and extract it, or clone it via git:
     ```bash
-    git clone [https://github.com/Senichi31/Mint-Tab/releases](https://github.com/Senichi31/Mint-Tab/releases)
+    git clone [Mint-Tab](https://github.com/Senichi31/Mint-Tab/releases).
     ```
 2.  Open your browser (Chrome, Edge, or Brave) and navigate to the **Extensions** page:
     *   `chrome://extensions`, `edge://extensions` or `brave://extensions`
