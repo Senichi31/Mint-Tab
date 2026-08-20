@@ -36,3 +36,28 @@ Since Mint-Tab is currently in development and not yet on the Web Store, follow 
 6.  Open a new tab and enjoy!
 
 Does this structure match the vibe you want for Mint-Tab?
+
+---
+
+## 🔒 Privacy Policy
+
+**Last Updated: August 20, 2026**
+
+Thank you for choosing Mint-Tab: Bookmark Viewer. Your privacy is critically important to us. This Privacy Policy explains how your data is handled when you use our Chrome Extension.
+
+### 1. Data Collection and Usage
+Mint-Tab is designed to operate **100% locally on your device**. We do not collect, transmit, distribute, or sell any of your personal information, browsing history, or bookmark data. 
+
+To function correctly, the extension requires specific permissions, which are strictly used locally:
+* **Bookmarks:** Used exclusively to read and display your existing browser bookmarks within the New Tab interface.
+* **Storage & UnlimitedStorage:** Used strictly to save your local UI preferences (such as layout mode, sorting preferences, and day/night themes) and to store your custom uploaded background wallpapers.
+* **Favicon:** Used locally to retrieve and display the website icons for your saved bookmarks to improve visual navigation.
+
+### 2. Third-Party Access
+Because all data processing happens locally within your browser, no data is ever sent to external servers, third-party analytics tools, or advertising networks.
+
+### 3. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page. 
+
+### 4. Contact
+If you have any questions or concerns regarding this Privacy Policy or the extension's data practices, please reach out via the Chrome Web Store support tab.
